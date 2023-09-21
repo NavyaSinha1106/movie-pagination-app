@@ -1,0 +1,29 @@
+.PaginationBar {
+    background-color: black;
+    height: 3.5em;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    margin: 0;
+    z-index: 1;
+    text-align: center;
+}
+
+.PaginationButton {
+    padding: 1em;
+}
+
+.PaginationButton button {
+    border: none;
+    border-radius: 0.5em;
+    background-color: black;
+    font-size: 1.3em;
+    /* font-weight: 700; */
+    color: #C00000;
+    margin: 0em 1em 0em 1em;
+    cursor: pointer;
+}
+
+.PaginationButton button:hover {
+    box-shadow: 2px 5px 5px #C00000;
+}

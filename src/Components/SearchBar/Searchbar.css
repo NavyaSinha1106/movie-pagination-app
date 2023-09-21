@@ -1,0 +1,12 @@
+.SearchDiv {
+    background-image: linear-gradient(200deg, black, #C00000);
+    color: beige;
+    text-align: center;
+    padding: 3em;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 600;
+}
+
+p {
+    font-size: 1.1em;
+}
