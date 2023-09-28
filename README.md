@@ -20,4 +20,4 @@ npm start
 
 ## Preview
 
-https://github.com/NavyaSinha1106/movie-pagination-app/assets/105153638/7ef5c6d8-27c6-4ca0-b6c6-91d953e33915
+https://github.com/NavyaSinha1106/movie-pagination-app/assets/105153638/a1d6f234-f65e-448c-818a-ad30e02f2bc0
